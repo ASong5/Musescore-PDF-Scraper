@@ -1,0 +1,8 @@
+Pillow==10.1.0
+Pillow==10.1.0
+pypdf==3.17.2
+reportlab==4.0.8
+Requests==2.31.0
+selenium==4.16.0
+svglib==1.5.1
+tqdm==4.66.1
